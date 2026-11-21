@@ -5,6 +5,7 @@
 ! 注意：当前只匹配域名，不支持 URL 路径、正则或通配路径。
 !BLOCK
 ||xiake.pro^
+||deep.shczxm.cn^
 !ALLOW
 @@||wps.cn
 @@||wps.com
