@@ -20,3 +20,5 @@
 [BRAND] Microsoft Edge|microsoft.com
 [BRAND] deepseek|deepseek.com
 [BRAND] 深度求索|deepseek.com
+[BRAND] 火绒|huorong.cn
+[BRAND] 火绒安全|huorong.cn
