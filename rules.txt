@@ -26,3 +26,7 @@
 [BRAND] 深度求索|deepseek.com
 [BRAND] 火绒|huorong.cn
 [BRAND] 火绒安全|huorong.cn
+[BRAND] 360|360.cn
+[BRAND] 360|360.com
+[BRAND] 豆包|doubao.com
+[BRAND] 卡饭|kafan.cn
