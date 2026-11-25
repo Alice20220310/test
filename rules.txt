@@ -31,5 +31,4 @@
 [BRAND] 360|360.com
 [BRAND] 豆包|doubao.com
 [BRAND] 卡饭|kafan.cn
-!
-[KEYWORDS] T1RIRVJ85Y2O5a6d55S15a2Q
+[BRAND] 百度|baidu.com
