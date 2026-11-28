@@ -6,6 +6,7 @@
 !BLOCK
 ||xiake.pro
 ||deep.shczxm.cn
+||41-1309209544.cos-website.ap-hongkong.myqcloud.com
 !ALLOW
 @@||wps.cn
 @@||wps.com
